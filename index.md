@@ -33,12 +33,10 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
-#**Starter Project**
+For my first milestone, I trained a model by downloading thousands of specific images. This was difficult to do because the images had to be preannotated. Although I had to find images online, I also had to transform them to represent different environments. For example, one transformation I made was to darken the image, which allows the model to still recognize people even if there is a shadow or shade. Another change I made was to add noise to the image. This is important because for the model to still recognize people even if there is dust or other particles in the way of parts of peoples' faces.   
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wjd4S-68Dv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Starter Project
 For my starter project, I made a simon says game. I had to learn about different parts of my project. For example the capacitor, stores energy and releases it into a circuit when required. Another part I learned about is the microcontroller, which is like a small computer on a chip and it has a CPU. When I first learned to solder I found it difficult to not only use the solder machine but also keep everything organized. With each part that I soldered, I became better and better and finally felt confident after soldering the microcontroller which had lots of metal ends to solder. I also had problems with my project. For example, my LED lights were not working since I accidentally put them in the wrong way. I had to troubleshoot, and I learned how to desolder a part that was put in wrong. 
 
 
