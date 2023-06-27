@@ -1,5 +1,5 @@
  # Blue Stamp Age Detection
-<!---Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!->
+<!---Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails-->
 
 
 For my project, I decided to create an SDP(Student Defined Project to detect the age of a person. I trained my model on a Raspberry Pi, and it detects age by taking a picture of someone using a Pi camera. Since my project was an SDP I did not have a guide to follow, and I used around ten different guides, improving on each one. This process took me a lot of time, but I learned how to be a lot more patient, especially because of how rewarding the end result is.   
