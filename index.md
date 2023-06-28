@@ -26,18 +26,19 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 -->
 
-<!--# Second Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
+# Second Milestone
+<!--For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
-
+- What needs to be completed before your final milestone -->
+In my previous milestone, I learned how to work with images and a model that trained for me. When I finished I realized I could train my own model. Although this milestone was very difficult for me to accomplish, it was extremely rewarding when it finally worked. A big challenge I had while training my model was finding a guide that can help me. There were no clear directions I could follow, and I had to restart several times, until I finally figured out how train my own model. When I first wanted to train my own model, I did no think that it would be this difficult to find a guide that could help me with clear instructions. This really surprised me, since. I thought most of my time I would focus on trouble shooting the code. For my final milestone, instead. of using online images, I want to create a live stream from a USB camera. 
+<!--
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 -->
+
 
 # First Milestone
 For my first milestone, I trained a model by downloading thousands of specific images. This was difficult to do because the images had to be preannotated. Although I had to find images online, I also had to transform them to represent different environments. For example, one transformation I made was to darken the image, which allows the model to still recognize people even if there is a shadow or shade. Another change I made was to add noise to the image. This is important because for the model to still recognize people even if there is dust or other particles in the way of parts of peoples' faces.   
