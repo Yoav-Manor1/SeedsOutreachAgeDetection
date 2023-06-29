@@ -43,7 +43,7 @@ In my previous milestone, I learned how to work with images and a model that tra
 
 
 # First Milestone
-For my first milestone, I trained a model by downloading thousands of specific images. This was difficult to do because the images had to be preannotated. Although I had to find images online, I also had to transform them to represent different environments. For example, one transformation I made was to darken the image, which allows the model to still recognize people even if there is a shadow or shade. Another change I made was to add noise to the image. This is important because for the model to still recognize people even if there is dust or other particles in the way of parts of peoples' faces.   
+For my first milestone, I used a pretrained model to detect age by downloading thousands of specific images. This was difficult to do because the images had to be preannotated. Although I had to find images online, I also had to transform them to represent different environments. For example, one transformation I made was to darken the image, which allows the model to still recognize people even if there is a shadow or shade. Another change I made was to add noise to the image. This is important because for the model to still recognize people even if there is dust or other particles in the way of parts of peoples' faces.   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wjd4S-68Dv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Starter Project
