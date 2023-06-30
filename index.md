@@ -6,8 +6,8 @@
 For my project, I decided to create an SDP(Student Defined Project to detect the age of a person. I trained my model on a Raspberry Pi, and it detects age by taking a picture of someone using a Pi camera. Since my project was an SDP I did not have a guide to follow, and I used around ten different guides, improving on each one. This process took me a lot of time, but I learned how to be a lot more patient, especially because of how rewarding the end result is.   
  
 
-<!--| **Engineer** | **School** | **Area of Interest** | **Grade** |
-|:--:|:--:|:--:|:--:|-->
+| **Engineer** | **School** | **Area of Interest** | **Grade** |
+|:--:|:--:|:--:|:--:|
 | Yoav M | Los Gatos High School | Computer Science | Incoming Junior
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
