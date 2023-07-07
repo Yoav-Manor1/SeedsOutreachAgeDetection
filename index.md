@@ -24,10 +24,12 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Final Milestone
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ciRl6miHf_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 For my Final Milestone, I added a USB Camera to the Raspberry Pi, to add a live stream option. Not only will the model be able to process images from a folder as a JPG or PNG file, but also have an option to detect age from a live stream. Several topics I learned while working on this project are that patience is key, stay organized, and how much better it is to use google for help instead of asking instructors. When working on my model, especially in the second milestone, I needed to use several guides. Each guide had a problem of its own, but when I finally found a guide that was very helpful, and finished my projected the end result was extremely rewarding. I also found it extremely important to stay organized, and not just necessarily hardware, but also when I should finish certain parts, trying to go in detail in each step. Finally, when I went to google for trouble shooting errors instead of asking Instructors, I learned more about what I was doing. For example a package I needed to install called libqtgui4 was giving me errors, so I took my project home, and troubleshooted using the internet's help. These challenges proved to be learning opportunities, as I not only got better at using Python and the terminal, but I also geot better at trouble shooting by myself. In the future, I hope to use all of what I have learned in Blue Stamp Engineering to create projects, even if they seem difficult, by staying organized and patient.    
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ciRl6miHf_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 # Second Milestone
@@ -36,29 +38,38 @@ For my Final Milestone, I added a USB Camera to the Raspberry Pi, to add a live 
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3hmjv61k4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 In my previous milestone, I learned how to work with images and a model that trained for me. When I finished, I realized I could train my own model. Although this milestone was very difficult for me to accomplish, it was extremely rewarding when it finally worked. A big challenge I had while training my model was finding a guide that can help me. There were no clear directions I could follow, and I had to restart several times, until I finally figured out how train my own model. When I first wanted to train my own model, I did no think that it would be this difficult to find a guide that could help me with clear instructions. This really surprised me, since. I thought most of my time I would focus on trouble shooting the code. For my final milestone, instead. of using online images, I want to create a live stream from a USB camera. 
 <!--
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3hmjv61k4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
 # First Milestone
-For my first milestone, I used a pretrained model to detect age by downloading thousands of specific images. This was difficult to do because the images had to be preannotated. Although I had to find images online, I also had to transform them to represent different environments. For example, one transformation I made was to darken the image, which allows the model to still recognize people even if there is a shadow or shade. Another change I made was to add noise to the image. This is important because for the model to still recognize people even if there is dust or other particles in the way of parts of peoples' faces.   
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wjd4S-68Dv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
+For my first milestone, I used a pretrained model to detect age by downloading thousands of specific images. This was difficult to do because the images had to be preannotated. Although I had to find images online, I also had to transform them to represent different environments. For example, one transformation I made was to darken the image, which allows the model to still recognize people even if there is a shadow or shade. Another change I made was to add noise to the image. This is important because for the model to still recognize people even if there is dust or other particles in the way of parts of peoples' faces.   
+
 # Starter Project
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T1poz7Z2KPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 For my starter project, I made a simon says game. I had to learn about different parts of my project. For example the capacitor, stores energy and releases it into a circuit when required. Another part I learned about is the microcontroller, which is like a small computer on a chip and it has a CPU. When I first learned to solder I found it difficult to not only use the solder machine but also keep everything organized. With each part that I soldered, I became better and better and finally felt confident after soldering the microcontroller which had lots of metal ends to solder. I also had problems with my project. For example, my LED lights were not working since I accidentally put them in the wrong way. I had to troubleshoot, and I learned how to desolder a part that was put in wrong. 
 
 <!--
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T1poz7Z2KPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<!--# Schematics 
+# Schematics 
 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. Put image of pi connected to parts. -->
+Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. Put image of pi connected to parts. 
 <!--# Code
 -->
 
