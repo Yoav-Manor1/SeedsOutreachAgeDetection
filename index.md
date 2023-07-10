@@ -90,6 +90,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|
 | Raspberry Pi | I am using the raspberry Pi to train my model | $84 | <a href="https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A2O17QJKTQ8MLI&th=1"> Link <raspberry pi> |
+|:--:|:--:|:--:|
 | USB Camera | I am using the USB Camera to create a live stream  | $40 | <a href="https://www.amazon.com/Logitech-Desktop-WidescreenCallingRecording/dp/B004FHO5Y6/ref=sr_1_3crid=GTN089V4A4WW&keywords=c270%2Bhd%2Bwebcam&qid=1688054759&s=electronics&sprefix=c270%2Bhd%2Bwebcam%2Celectronics%2C146&sr=1-3&th=1"> Link <USB Camera> |
 <!--| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|:--:|-->
