@@ -73,7 +73,7 @@ For my starter project, I made a simon says game. I had to learn about different
 
 # Schematics 
 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. Put image of pi connected to parts. 
+<!--Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. Put image of pi connected to parts. -->
 <!--# Code
 -->
 <img width="588" alt="Schematics1" src="https://github.com/Yoav-Manor1/Yoav_BlueStampPortfolio/assets/136625213/42d66e76-ee27-4b98-a3ab-d28016d6cd49">
