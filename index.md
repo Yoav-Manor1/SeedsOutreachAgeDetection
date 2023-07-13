@@ -76,8 +76,8 @@ For my starter project, I made a simon says game. I had to learn about different
 <!--Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. Put image of pi connected to parts. -->
 <!--# Code
 -->
-Manor1/Yoav_BlueStampPortfolio/assets/136625213/7df82bf4-cfd9-43f2-914d-94b6e0b9207b">
 <img width="618" alt="Stand" src="https://github.com/Yoav-Manor1/Yoav_BlueStampPortfolio/assets/136625213/ce09ea70-ff3a-4573-bce1-8b302bbc620f">
+<img width="552" alt="Camera Case" src="https://github.com/Yoav-Manor1/Yoav_BlueStampPortfolio/assets/136625213/0ebfbde6-c495-413c-a66b-52bf9deb22a6">
 
 
 
