@@ -25,6 +25,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 # Modifications
 
 I noticed that one big problem with my project was executing the function by using the terminal. In this process, I had to open the terminal, specify which directory I was in, and finally run the function. Because of this, I decided to make my function more executable, by creating a format file(.ch), and calling my python function. As a result, instead of having to use the terminal and accessing the neccessary directory, all I have to do now is double click a file on the home screen, which runs the program. 
+
 Another problem I noticed I had was that my camera was too low, so I decided to make a stand that would increase the height of my camera which would allow it to reach the necessary level. 
 
 
