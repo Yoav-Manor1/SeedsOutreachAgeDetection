@@ -78,6 +78,8 @@ For my starter project, I made a simon says game. I had to learn about different
 -->
 <img width="588" alt="Schematics1" src="https://github.com/Yoav-Manor1/Yoav_BlueStampPortfolio/assets/136625213/42d66e76-ee27-4b98-a3ab-d28016d6cd49">
 <img width="701" alt="Screenshot 2023-07-07 at 11 13 01 AM" src="https://github.com/Yoav-Manor1/Yoav_BlueStampPortfolio/assets/136625213/7df82bf4-cfd9-43f2-914d-94b6e0b9207b">
+Files/Stand.png
+
 
 
 # Bill of Materials
