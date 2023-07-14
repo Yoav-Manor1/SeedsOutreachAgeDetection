@@ -75,6 +75,7 @@ For my first milestone, I used a pretrained model to detect age by downloading t
 
 For my starter project, I made a simon says game. I had to learn about different parts of my project. For example the capacitor, stores energy and releases it into a circuit when required. Another part I learned about is the microcontroller, which is like a small computer on a chip and it has a CPU. When I first learned to solder I found it difficult to not only use the solder machine but also keep everything organized. With each part that I soldered, I became better and better and finally felt confident after soldering the microcontroller which had lots of metal ends to solder. I also had problems with my project. For example, my LED lights were not working since I accidentally put them in the wrong way. I had to troubleshoot, and I learned how to desolder a part that was put in wrong. 
 
+Link to starter project guide: [https://www.sparkfun.com/products/10547](url)
 <!--
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 -->
