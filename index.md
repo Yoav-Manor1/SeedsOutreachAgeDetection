@@ -3,7 +3,7 @@
 <!---Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails-->
 
 
-For my project, I decided to create an SDP(Student Defined Project) to detect the age of a person. I trained my model on a Raspberry Pi, and it detects age by taking a picture of someone using a Pi camera. Since my project was an SDP I did not have a guide to follow, and I used around ten different guides, improving on each one. This process took me a lot of time, but I learned how to be a lot more patient, especially because of how rewarding the end result is.   
+I decided to create an SDP(Student Defined Project) to detect the age of a person using machine learning. I trained my model on a Raspberry Pi, and it detects age by taking a picture of someone using a Pi camera. Since my project was an SDP I did not have a guide to follow, and I used around ten different guides, improving on each one. This process took me a lot of time, but I learned how to be a lot more patient, especially because of how rewarding the end result is.   
  
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -27,6 +27,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 I noticed that one big problem with my project was executing the function by using the terminal. In this process, I had to open the terminal, specify which directory I was in, and finally run the function. Because of this, I decided to make my function more executable, by creating a format file(.ch), and calling my python function. As a result, instead of having to use the terminal and accessing the neccessary directory, all I have to do now is double click a file on the home screen, which runs the program. 
 
 Another problem I noticed I had was that my camera was too low, so I decided to make a stand that would increase the height of my camera which would allow it to reach the necessary level. 
+
 
 
 # Final Milestone
@@ -81,11 +82,78 @@ For my starter project, I made a simon says game. I had to learn about different
 # Schematics 
 
 <!--Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. Put image of pi connected to parts. -->
-<!--# Code
--->
+
+
+
 <img width="618" alt="Stand" src="https://github.com/Yoav-Manor1/Yoav_BlueStampPortfolio/assets/136625213/ce09ea70-ff3a-4573-bce1-8b302bbc620f">
 <img width="552" alt="Camera Case" src="https://github.com/Yoav-Manor1/Yoav_BlueStampPortfolio/assets/136625213/0ebfbde6-c495-413c-a66b-52bf9deb22a6">
 
+
+# Code
+
+[Uploading AgeCimport sys
+import os
+from PyQt5.QtCore import *
+from PyQt5.QtWidgets import *
+from PyQt5.QtGui import QPainter, QPixmap, QImage
+
+import tensorflow as tf # version 1.15.0
+from tensorflow.keras.preprocessing.image import img_to_array
+import numpy as np
+import cv2
+from time import time
+
+string_pred_age = ['04 - 06', '07 - 08','09 - 11','12 - 19','20 - 27','28 - 35 ani','36 - 45 ani','46 - 60 ani','61 - 75 ani']
+string_pred_gen = ['Female', 'Male']
+
+# Load TFLite model and allocate tensors. Load Face Cascade
+face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+
+interpreter_age = tf.lite.Interpreter(model_path="AgeClass_best_06_02-16-02.tflite")
+interpreter_age.allocate_tensors()
+
+interpreter_gender = tf.lite.Interpreter(model_path="GenderClass_06_03-20-08.tflite")
+interpreter_gender.allocate_tensors()
+
+# # Get input and output tensors
+input_details_age = interpreter_age.get_input_details()
+output_details_age = interpreter_age.get_output_details()
+input_shape_age = input_details_age[0]['shape']
+
+input_details_gender = interpreter_gender.get_input_details()
+output_details_gender = interpreter_gender.get_output_details()
+input_shape_gender = input_details_gender[0]['shape']
+
+class PicButton(QAbstractButton):
+    # https://stackoverflow.com/questions/2711033/how-code-a-image-button-in-pyqt
+    def __init__(self, pixmap, pixmap_hover, pixmap_pressed, parent=None):
+        super(PicButton, self).__init__(parent)
+        self.pixmap = pixmap
+        self.pixmap_hover = pixmap_hover
+        self.pixmap_pressed = pixmap_pressed
+
+        self.pressed.connect(self.update)
+        self.released.connect(self.update)
+
+    def paintEvent(self, event):
+        pix = self.pixmap_hover if self.underMouse() else self.pixmap
+        if self.isDown():
+            pix = self.pixmap_pressed
+
+        painter = QPainter(self)
+        painter.drawPixmap(event.rect(), pix)
+
+    def enterEvent(self, event):
+        self.update()
+
+    def leaveEvent(self, event):
+        self.update()
+
+    def sizeHint(self):
+        return QSize(200, 200)
+
+
+            
 
 
 # Bill of Materials
