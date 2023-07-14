@@ -91,16 +91,6 @@ For my starter project, I made a simon says game. I had to learn about different
 
 # Code
 
-class PicButton(QAbstractButton):
-    # https://stackoverflow.com/questions/2711033/how-code-a-image-button-in-pyqt
-    def __init__(self, pixmap, pixmap_hover, pixmap_pressed, parent=None):
-        super(PicButton, self).__init__(parent)
-        self.pixmap = pixmap
-        self.pixmap_hover = pixmap_hover
-        self.pixmap_pressed = pixmap_pressed
-
-        self.pressed.connect(self.update)
-        self.released.connect(self.update)
 
     def paintEvent(self, event):
         pix = self.pixmap_hover if self.underMouse() else self.pixmap
