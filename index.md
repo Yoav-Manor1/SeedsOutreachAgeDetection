@@ -91,39 +91,6 @@ For my starter project, I made a simon says game. I had to learn about different
 
 # Code
 
-[Uploading AgeCimport sys
-import os
-from PyQt5.QtCore import *
-from PyQt5.QtWidgets import *
-from PyQt5.QtGui import QPainter, QPixmap, QImage
-
-import tensorflow as tf # version 1.15.0
-from tensorflow.keras.preprocessing.image import img_to_array
-import numpy as np
-import cv2
-from time import time
-
-string_pred_age = ['04 - 06', '07 - 08','09 - 11','12 - 19','20 - 27','28 - 35 ani','36 - 45 ani','46 - 60 ani','61 - 75 ani']
-string_pred_gen = ['Female', 'Male']
-
-# Load TFLite model and allocate tensors. Load Face Cascade
-face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
-
-interpreter_age = tf.lite.Interpreter(model_path="AgeClass_best_06_02-16-02.tflite")
-interpreter_age.allocate_tensors()
-
-interpreter_gender = tf.lite.Interpreter(model_path="GenderClass_06_03-20-08.tflite")
-interpreter_gender.allocate_tensors()
-
-# # Get input and output tensors
-input_details_age = interpreter_age.get_input_details()
-output_details_age = interpreter_age.get_output_details()
-input_shape_age = input_details_age[0]['shape']
-
-input_details_gender = interpreter_gender.get_input_details()
-output_details_gender = interpreter_gender.get_output_details()
-input_shape_gender = input_details_gender[0]['shape']
-
 class PicButton(QAbstractButton):
     # https://stackoverflow.com/questions/2711033/how-code-a-image-button-in-pyqt
     def __init__(self, pixmap, pixmap_hover, pixmap_pressed, parent=None):
