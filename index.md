@@ -28,7 +28,7 @@ I noticed that one big problem with my project was executing the function by usi
 
 Another problem I noticed I had was that my camera was too low, so I decided to make a stand that would increase the height of my camera which would allow it to reach the necessary level. 
 
-
+Another modification I created is making my project portable. I did this by making my model powered by a battery.
 
 # Final Milestone
 
