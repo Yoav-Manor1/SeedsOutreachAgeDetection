@@ -23,6 +23,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 -->
 
 # Modifications
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z4CVlaG9U0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I noticed that one big problem with my project was executing the function by using the terminal. In this process, I had to open the terminal, specify which directory I was in, and finally run the function. Because of this, I decided to make my function more executable, by creating a format file(.ch), and calling my python function. As a result, instead of having to use the terminal and accessing the neccessary directory, all I have to do now is double click a file on the home screen, which runs the program. 
 
@@ -30,7 +31,6 @@ Another problem I noticed I had was that my camera was too low, so I decided to 
 
 Another modification I created is making my project portable. I did this by making my model powered by a battery.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z4CVlaG9U0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Final Milestone
 
