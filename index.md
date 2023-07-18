@@ -30,6 +30,8 @@ Another problem I noticed I had was that my camera was too low, so I decided to 
 
 Another modification I created is making my project portable. I did this by making my model powered by a battery.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z4CVlaG9U0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Final Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ciRl6miHf_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
