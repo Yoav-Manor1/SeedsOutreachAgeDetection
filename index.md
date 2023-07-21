@@ -10,7 +10,6 @@ I decided to create an SDP(Student Defined Project) to detect the age of a perso
 |:--:|:--:|:--:|:--:|
 | Yoav M | Los Gatos High School | Computer Science | Incoming Junior
 
-<!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
 ![Headstone Image](Yoav-Headshot.png)
 
