@@ -12,7 +12,7 @@ I decided to create an SDP(Student Defined Project) to detect the age of a perso
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
-[Yoav-Headshot](https://github.com/Yoav-Manor1/Yoav_BlueStampPortfolio/assets/136625213/158058cc-8369-4a43-9901-3fd9f8eb35bf)
+![Headstone Image](Files/Yoav-Headshot.png)
 
 <!--
 For your final milestone, explain the outcome of your project. Key details to include are:
