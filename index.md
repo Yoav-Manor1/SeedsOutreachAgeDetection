@@ -10,7 +10,7 @@ I decided to create an SDP(Student Defined Project) to detect the age of a perso
 |:--:|:--:|:--:|:--:|
 | Yoav M | Los Gatos High School | Computer Science | Incoming Junior
 
-![Yoav-Headshot](https://github.com/Yoav-Manor1/Yoav_BlueStampPortfolio/assets/136625213/2dcd5335-3011-42b8-be54-b6bdf5385a51)
+![Yoav-Headshot](https://github.com/Yoav-Manor1/Yoav_BlueStampPortfolio/assets/136625213/bb606282-9e0c-4b8d-8d11-86c9e198a383)
 
 
 
