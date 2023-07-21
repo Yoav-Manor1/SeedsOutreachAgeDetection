@@ -11,7 +11,7 @@ I decided to create an SDP(Student Defined Project) to detect the age of a perso
 | Yoav M | Los Gatos High School | Computer Science | Incoming Junior
 
 
-!(Yoav-Headshot.png)
+![Headshot](Yoav-Headshot.png)
 
 <!--
 For your final milestone, explain the outcome of your project. Key details to include are:
