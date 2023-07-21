@@ -136,5 +136,6 @@ Don't forget to place the link of where to buy each component inside the quotati
 Here is a link of the guide I used for creating my project:
 [https://github.com/radualexandrub/Age-Gender-Classification-on-RaspberryPi4-with-TFLite-PyQt5
 ](url)
+
 Link to starter project guide: [https://www.sparkfun.com/products/10547](url)
 
