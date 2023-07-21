@@ -43,9 +43,7 @@ Several topics I learned while working on this project are that patience is key,
 When working on my model, especially in the second milestone, I needed to use several guides. Each guide had a problem of its own, but when I finally found a guide that was very helpful, and finished my projected the end result was extremely rewarding.
 I also found it extremely important to stay organized. Organization is important for two reasons: staying within deadlines and keeping hardware  Finally, when I went to google for trouble shooting errors instead of asking Instructors, I learned more about what I was doing. For example a package I needed to install called libqtgui4 was giving me errors, so I took my project home, and troubleshooted using the internet's help. These challenges proved to be learning opportunities, as I not only got better at using Python and the terminal, but I also geot better at trouble shooting by myself. In the future, I hope to use all of what I have learned in Blue Stamp Engineering to create projects, even if they seem difficult, by staying organized and patient.    
 
-Here is a link of the guide I used for creating my project:
-[https://github.com/radualexandrub/Age-Gender-Classification-on-RaspberryPi4-with-TFLite-PyQt5
-](url)
+
 
 
 # Second Milestone
@@ -80,7 +78,6 @@ For my first milestone, I used a pretrained model to detect age by downloading t
 
 For my starter project, I made a simon says game. I had to learn about different parts of my project. For example the capacitor, stores energy and releases it into a circuit when required. Another part I learned about is the microcontroller, which is like a small computer on a chip and it has a CPU. When I first learned to solder I found it difficult to not only use the solder machine but also keep everything organized. With each part that I soldered, I became better and better and finally felt confident after soldering the microcontroller which had lots of metal ends to solder. I also had problems with my project. For example, my LED lights were not working since I accidentally put them in the wrong way. I had to troubleshoot, and I learned how to desolder a part that was put in wrong. 
 
-Link to starter project guide: [https://www.sparkfun.com/products/10547](url)
 <!--
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 -->
@@ -134,12 +131,10 @@ Don't forget to place the link of where to buy each component inside the quotati
 <!---| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 |:--:|:--:|:--:|-->
 
-<!--# Other Resources/Examples
+# Other Resources/Examples
 
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
+Here is a link of the guide I used for creating my project:
+[https://github.com/radualexandrub/Age-Gender-Classification-on-RaspberryPi4-with-TFLite-PyQt5
+](url)
+Link to starter project guide: [https://www.sparkfun.com/products/10547](url)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
--->
