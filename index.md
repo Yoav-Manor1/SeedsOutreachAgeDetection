@@ -11,7 +11,8 @@ I decided to create an SDP(Student Defined Project) to detect the age of a perso
 | Yoav M | Los Gatos High School | Computer Science | Incoming Junior
 
 
-![Headshot](Files/Yoav-Headshot.png)
+(![Yoav-Headshot](https://github.com/Yoav-Manor1/Yoav_BlueStampPortfolio/assets/136625213/f53433ff-a335-401c-aeb3-1020bcee7b80)
+)
 
 <!--
 For your final milestone, explain the outcome of your project. Key details to include are:
