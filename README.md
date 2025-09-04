@@ -1,1 +1,1 @@
-This repository is a template for documenting BlueStamp Engineering projects. Users should replace this text with a description of what their project is and what their repository holds. 
+I developed a camera-based machine learning model that predicts age from a live feed. Seeds Outreach uses this tool to better identify and support homeless youth, helping them tailor outreach and provide more effective resources.
